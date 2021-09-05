@@ -1,0 +1,24 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    margin: 0;
+    background-color:white;
+    padding-left: 25%;
+}
+.container{
+    width: 500px;
+    max-height: 1500px;
+    padding: 4em 3em;
+    margin-left: 9em;
+    margin-right: 3em;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    background: rgb(74, 113, 221);
+    /* overflow: auto;  */
+    object-fit: contain;
+}
+p{
+    font-size: 50;
+    text-align: justify;
+}

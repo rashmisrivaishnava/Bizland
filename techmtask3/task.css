@@ -1,0 +1,23 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    padding: 5em 5em;
+    margin: 0;
+    background-color: burlywood;
+}
+.container{
+    width: 500px;
+    max-height: 1500px;
+    padding: 3em 0em;
+    margin-left: 33em;
+    margin-right: 3em;
+    margin-top: -3em;
+    margin-bottom: 0em;
+    background: white;
+    object-fit: contain;
+}
+textarea{
+    width:300px;
+    height: 150px;
+}

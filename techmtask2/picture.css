@@ -1,0 +1,23 @@
+*{
+    box-sizing: content-box;
+}
+body{
+    padding-right: 20%;
+    margin: 0;
+    background-color:white;
+}
+.container{
+    width: 500px;
+    height: 500px;
+    padding: -4em 3em;
+    background: white;
+    /* overflow: auto;  */
+    object-fit: none;
+    column-span: none;
+    text-indent: 5;
+
+}
+h2{
+    font-size: 50;
+    text-align: left;
+}

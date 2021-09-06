@@ -1,0 +1,24 @@
+*{
+    color: indianred;
+}
+div{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+h2{
+    color: gray;
+}
+/* class selector */
+.demo {
+    color: ivory;
+}
+/* id selector */
+#test{
+    color: lawngreen;
+}
+/* pseudo selector */
+p:hover{
+    color: brown;
+    font-size: 27px;
+}
